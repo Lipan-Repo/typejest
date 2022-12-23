@@ -7,7 +7,7 @@ describe('checking the first',()=>{
         console.log("running")
     })
 })
-
+console.log("new branch generated!")
 // describe('add',()=>{
 //     test("checking add of two numbers",()=>{
 //         expect(sum(1,2)).toBe(3)
